@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of Coder Cat](https://octodex.github.com/images/femalecodertocat.png)
+
+! [Image of Coco Cat](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
