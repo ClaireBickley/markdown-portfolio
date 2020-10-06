@@ -1,0 +1,6 @@
+- I like dogs
+  - :dog:
+- I like pizza
+  - :pizza:
+- I like smiles
+  - :smile:
