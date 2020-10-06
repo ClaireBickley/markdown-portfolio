@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- I like dogs
+  - :dog:
+- I like pizza
+  - :pizza:
+- I like smiles
+  - :smile:
